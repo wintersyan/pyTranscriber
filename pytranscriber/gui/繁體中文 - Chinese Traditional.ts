@@ -46,7 +46,7 @@
     <message>
         <location filename="gui.py" line="137"/>
         <source>Open output files automatically</source>
-        <translation>開啟輸出位置</translation>
+        <translation>完成後自動開啟輸出資料夾</translation>
     </message>
     <message>
         <location filename="gui.py" line="138"/>
