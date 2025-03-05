@@ -15,8 +15,7 @@ Jixing Zhao, Narsu Narsu, Lucas Thorn, Soonkj Jung, Sergio Moreno, Yooki Adair, 
 
 # UPDATE - v2.0-RC_1 - 04/03/2025
 1. Added support for <a hfref="https://openai.com/index/whisper/">openAI Whisper</a> with local processing of media files as alternative to Google Speech API (where all media file is uploaded to Google servers for processing)
-2. Added proxy setting
-3. Added saving/load settings to sqlite local db
+2. Added saving/load settings to sqlite local db
 
 
 # UPDATE - v1.9 - 22/12/2022
